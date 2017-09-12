@@ -1,8 +1,8 @@
 # FalconData
 
-[![Version](https://img.shields.io/cocoapods/v/FalconData.svg?style=flat)](http://cocoapods.org/pods/FalconData)
+[![Contact](https://img.shields.io/badge/contact-@carambalabs-blue.svg?style=flat)](https://twitter.com/@gelopfalcon)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/cocoapods/p/FalconData.svg?style=flat)](http://cocoapods.org/pods/FalconData)
+[![Platform](https://img.shields.io/badge/lang-Swift-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 ## Example
 
