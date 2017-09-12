@@ -1,7 +1,7 @@
 # FalconData
 
 [![Version](https://img.shields.io/cocoapods/v/FalconData.svg?style=flat)](http://cocoapods.org/pods/FalconData)
-[![License](https://img.shields.io/cocoapods/l/FalconData.svg?style=flat)](https://img.shields.io/github/license/mashape/apistatus.svg)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://img.shields.io/github/license/mashape/apistatus.svg)
 [![Platform](https://img.shields.io/cocoapods/p/FalconData.svg?style=flat)](http://cocoapods.org/pods/FalconData)
 
 ## Example
