@@ -22,7 +22,7 @@ pod 'FalconData'
 
 ## Author
 
-gelopfalcon@gmail.com, gelopfalcon@gmail.com
+Gerardo López Falcón, gelopfalcon@gmail.com
 
 ## License
 

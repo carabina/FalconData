@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'FalconData'
   s.version          = '0.1.0'
-  s.summary          = 'CoreData sweet wrapper written in Swift'
+  s.summary          = 'CoreData awesome wrapper written in Swift'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
