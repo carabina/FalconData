@@ -2,6 +2,8 @@ use_frameworks!
 
 target 'FalconData_Example' do
   pod 'FalconData', :path => '../'
+  pod 'SugarRecord'
+  pod "SugarRecord/CoreData"
 
   target 'FalconData_Tests' do
     inherit! :search_paths

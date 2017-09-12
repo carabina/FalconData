@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'FalconData'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of FalconData.'
+  s.summary          = 'CoreData sweet wrapper written in Swift'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,15 +18,16 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+SugarRecord is a persistence wrapper designed to make working with persistence solutions like CoreData in a much easier way.
+Thanks to SugarRecord you'll be able to use CoreData with just a few lines of code: Just choose your stack and start playing with your data.
                        DESC
 
-  s.homepage         = 'https://github.com/gelopfalcon@gmail.com/FalconData'
+  s.homepage         = 'https://github.com/gelopfalcon/FalconData'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'gelopfalcon@gmail.com' => 'gelopfalcon@gmail.com' }
-  s.source           = { :git => 'https://github.com/gelopfalcon@gmail.com/FalconData.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/gelopfalcon/FalconData.git', :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/@gelopfalcon'
 
   s.ios.deployment_target = '8.0'
 
@@ -38,5 +39,6 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+    s.dependency 'SugarRecord'
+    s.dependency 'SugarRecord/CoreData'
 end
